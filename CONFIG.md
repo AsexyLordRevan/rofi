@@ -25,7 +25,7 @@ You can now set the options in the `configuration` block.
 ## Create a configuration file from current setup
 
 If you do not want to start from scratch, or want to migrate from older
-configuration format, you can get tell rofi to dumps it configuration:
+configuration format, you can get tell rofi to dump it configuration:
 
 ```bash
 rofi -dump-config > ~/.config/rofi/config.rasi
